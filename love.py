@@ -1,7 +1,7 @@
 import math as m
 import random as r
 import turtle as t
-import tkinter.font as tkf
+import tkinder.font as tkf
 
 SC = 21
 OY = 20
